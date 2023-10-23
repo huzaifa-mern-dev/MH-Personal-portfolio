@@ -46,5 +46,6 @@ Windows:
 git clone https://github.com/Huzaifa3737/MH-Personal-portfolio.git
 ```
 
+## LICENSE 
 
 MIT
